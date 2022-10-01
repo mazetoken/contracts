@@ -1,8 +1,10 @@
 # contracts
 Dogechain applications contracts
 
-- The Book of Dog
+- [The Book of Dog](https://bookofdog.doge.wf)
 
-- Blockchain Invaders
+- [Blockchain Invaders](https://invaders.doge.wf)
 
-- Renderai NFT
+- [Renderai NFT](https://renderai.art)
+
+- [DeadHeadz NFT](https://headz.netlify.app)
