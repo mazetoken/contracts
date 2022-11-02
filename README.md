@@ -8,4 +8,6 @@
 
 - [DeadHeadz NFT](https://headz.netlify.app) - Dogechain
 
-- [Open Desert - Multichain NFT Market](https://opendesert.netlify.app) - Dogechain, smartBCH, Polygon, ETHW, Cronos
+- [Open Desert - Multichain NFT Market](https://opendesert.art) - Dogechain, smartBCH, Polygon, Cronos, EthereumPoW, BNB Smart Chain
+
+- [Dark Legends Demons - Multichain NFT](https://opendesert.art/legends) - Multichain
