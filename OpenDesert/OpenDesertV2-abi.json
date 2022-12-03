@@ -21,6 +21,11 @@
 			{
 				"components": [
 					{
+						"internalType": "uint256",
+						"name": "id",
+						"type": "uint256"
+					},
+					{
 						"internalType": "address",
 						"name": "tokenContract",
 						"type": "address"
@@ -37,12 +42,12 @@
 					},
 					{
 						"internalType": "uint256",
-						"name": "askPrice",
+						"name": "salePrice",
 						"type": "uint256"
 					}
 				],
 				"indexed": false,
-				"internalType": "struct OpenDesert.Listing",
+				"internalType": "struct OpenDesertV2.Listing",
 				"name": "listing",
 				"type": "tuple"
 			}
@@ -56,6 +61,11 @@
 			{
 				"components": [
 					{
+						"internalType": "uint256",
+						"name": "id",
+						"type": "uint256"
+					},
+					{
 						"internalType": "address",
 						"name": "tokenContract",
 						"type": "address"
@@ -72,12 +82,12 @@
 					},
 					{
 						"internalType": "uint256",
-						"name": "askPrice",
+						"name": "salePrice",
 						"type": "uint256"
 					}
 				],
 				"indexed": false,
-				"internalType": "struct OpenDesert.Listing",
+				"internalType": "struct OpenDesertV2.Listing",
 				"name": "listing",
 				"type": "tuple"
 			}
@@ -91,6 +101,11 @@
 			{
 				"components": [
 					{
+						"internalType": "uint256",
+						"name": "id",
+						"type": "uint256"
+					},
+					{
 						"internalType": "address",
 						"name": "tokenContract",
 						"type": "address"
@@ -107,12 +122,12 @@
 					},
 					{
 						"internalType": "uint256",
-						"name": "askPrice",
+						"name": "salePrice",
 						"type": "uint256"
 					}
 				],
 				"indexed": false,
-				"internalType": "struct OpenDesert.Listing",
+				"internalType": "struct OpenDesertV2.Listing",
 				"name": "listing",
 				"type": "tuple"
 			}
@@ -179,7 +194,7 @@
 			},
 			{
 				"internalType": "uint256",
-				"name": "askPrice",
+				"name": "salePrice",
 				"type": "uint256"
 			}
 		],
@@ -313,6 +328,11 @@
 		"name": "getListing",
 		"outputs": [
 			{
+				"internalType": "uint256",
+				"name": "id",
+				"type": "uint256"
+			},
+			{
 				"internalType": "address",
 				"name": "tokenContract",
 				"type": "address"
@@ -329,7 +349,7 @@
 			},
 			{
 				"internalType": "uint256",
-				"name": "askPrice",
+				"name": "salePrice",
 				"type": "uint256"
 			}
 		],
